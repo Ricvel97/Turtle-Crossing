@@ -44,6 +44,4 @@ while game_on:
         level.next_level()
         time_to_sleep *= 0.9
 
-
-
 screen.exitonclick()
